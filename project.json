@@ -40,7 +40,7 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "5efc8ce8-2a84-4b44-a9f5-aa7bcfc010b3",
         "fileName": "TestCase.xaml"
       }
